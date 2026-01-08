@@ -1,0 +1,70 @@
+{
+  "name": "Adeja Lendor",
+  "email": "alendor6@gmail.com",
+  "phone": "917-673-6218",
+  "location": "Newark, NJ",
+  "remote_ok": true,
+  "titles": [
+    "Full Stack Software Engineer",
+    "Full Stack Developer",
+    "Software Engineer",
+    "Ruby on Rails Developer"
+  ],
+  "core_skills": [
+    "Ruby",
+    "Rails",
+    "SQL",
+    "PostgreSQL",
+    "JavaScript",
+    "React",
+    "Redux",
+    "JWT",
+    "OAuth",
+    "Git"
+  ],
+  "nice_skills": [
+    "Sinatra",
+    "HTML",
+    "CSS",
+    "Bootstrap",
+    "Materialize",
+    "ORM",
+    "Devise",
+    "Salesforce"
+  ],
+  "min_salary": null,
+  "seniority": "Junior-Mid",
+  "work_authorization": "Unknown",
+  "links": {
+    "github": "",
+    "linkedin": "",
+    "blog": ""
+  },
+  "projects": [
+    {
+      "name": "Quik-Cash",
+      "highlights": [
+        "Authentication/authorization with JWT",
+        "React + Redux front end",
+        "Rails API serving serialized JSON from Postgres",
+        "React-Bootstrap styling"
+      ]
+    },
+    {
+      "name": "Artster",
+      "highlights": [
+        "Rails API serving serialized JSON from Postgres",
+        "Client-side JS + AJAX/fetch",
+        "Bootstrap UI"
+      ]
+    },
+    {
+      "name": "R-mail",
+      "highlights": [
+        "Full CRUD messaging app in Ruby on Rails",
+        "OAuth2 via Google + Devise",
+        "RESTful routing to SQLite3"
+      ]
+    }
+  ]
+}

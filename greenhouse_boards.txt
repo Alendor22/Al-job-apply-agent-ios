@@ -1,0 +1,2 @@
+# Add Greenhouse boards base URLs here (one per line)
+# Example: https://boards.greenhouse.io/github

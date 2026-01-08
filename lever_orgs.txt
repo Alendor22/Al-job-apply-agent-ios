@@ -1,0 +1,2 @@
+# Add Lever org slugs here (one per line)
+# Example: stripe
